@@ -13,7 +13,7 @@
     }
   ],
   "env": {
-    "MONGO_URI": "ongodb+srv://siddharthnarela:MONGO%40sidd123@cluster0.jxuml.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "MONGO_URI": "mongodb+srv://siddharthnarela:MONGO%40sidd123@cluster0.jxuml.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "JWT_SECRET": "cave_tech"
   }
 }
